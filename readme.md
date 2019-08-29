@@ -10,9 +10,13 @@
 
 
 ## 环境配置
-
+（默认已安装好python3环境，若未安装，请自行百度）
+1. 在项目根目录运行 `pip3 install -r requirements.txt`安装依赖 
+2. config.yaml文件配置发件人邮箱及密码
 
 ## 运行
+1. 在项目根目录运行`python monitor_server.py`启动项目，启动端口可在monitor_server.py文件中修改，默认为5001。
+2. 浏览器http://localhost:5001，访问监控首页。
 
 ## 如何使用
 

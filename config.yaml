@@ -3,8 +3,8 @@ email:
     server: smtp.exmail.qq.com
     port: 587
     from: 《SQL报警平台》
-    addr: winghead@dhibank.com
-    password: DHph6666
+    addr: 发件人邮箱
+    password: 发件人邮箱密码
     # 收件人
 #    to:
     # 抄送

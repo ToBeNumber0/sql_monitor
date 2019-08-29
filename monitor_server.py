@@ -62,5 +62,5 @@ def monitor_delete_source(_id):
 
 
 if __name__ == '__main__':
-    # monitor.restart()
-    app.run(port=5001, debug=True, host='0.0.0.0', threaded=True)
+    monitor.restart()
+    app.run(port=5001, debug=False, host='0.0.0.0', threaded=True)
