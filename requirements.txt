@@ -1,0 +1,4 @@
+pymysql==0.8.0
+flask==0.12.2
+pyyaml==3.12
+croniter==0.3.26
