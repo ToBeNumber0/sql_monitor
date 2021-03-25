@@ -1,4 +1,4 @@
 pymysql==0.8.0
 flask==1.0.0
-pyyaml==4.2b1
+pyyaml==5.4
 croniter==0.3.26
